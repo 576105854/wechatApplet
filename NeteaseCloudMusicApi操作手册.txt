@@ -1,0 +1,7 @@
+1. 进入NeteaseCloudMusicApi 目录，调起终端
+2. 执行npm install
+3. 执行node app.js
+
+
+NeteaseCloudMusicApi下载地址
+https://github.com/Binaryify/NeteaseCloudMusicApi
