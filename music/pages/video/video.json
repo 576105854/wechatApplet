@@ -1,4 +1,5 @@
 {
   "usingComponents": {},
-  "navigationBarTitleText": "中软云音乐"
+  "navigationBarTitleText": "中软云音乐",
+  "enablePullDownRefresh": true
 }
